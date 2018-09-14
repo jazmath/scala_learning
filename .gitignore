@@ -1,4 +1,4 @@
-project/
-.ideal/
 target/
+project/
 build.sbt
+.idea/
